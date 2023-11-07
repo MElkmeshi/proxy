@@ -45,11 +45,3 @@ Send your HTTP/HTTPS requests to `http://localhost:PORT` where `PORT` is the por
 ## Contributing
 
 We welcome contributions to this project. Please open an issue or submit a pull request for any improvements or features you would like to suggest.
-
-## License
-
-[Insert License Here] - Make sure to add a license that fits the project's needs.
-
----
-
-This improved `README.md` provides a comprehensive guide to what the project is about, its features, how to install and run it, and how to contribute. Don't forget to replace `[Insert License Here]` with the actual license text or a link to the license you choose to use for your project.
